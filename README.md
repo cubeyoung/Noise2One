@@ -34,6 +34,14 @@ Authors: Kwanyoung Kim, Jong Chul Ye
 | Kodak24 | [[Google Drive](https://drive.google.com/file/d/1ZXE9zJ1F1Wk8MBN5pFP11R3En3Q56yRv/view?usp=drive_link)] |
 | Set14   | [[Google Drive](https://drive.google.com/file/d/1RzTZXnPy-3A8oTCRWb-2_e7695qWZG7N/view?usp=drive_link)] |
 
+
+## Few-Shot Datset:
+
+|     Dataset     |  dataset download link |
+| :-------------: | :----------------------------------------------------------: |
+| One-Shot | [[Google Drive](https://drive.google.com/file/d/10ACiNmnlX6w-xlbEV8MSB2FIehLrsjFr/view?usp=sharing)] |
+
+
 ## Training (Inductive):
  ```shell
  `bash demo_kan.sh`
