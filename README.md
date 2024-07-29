@@ -51,6 +51,7 @@ Authors: Kwanyoung Kim, Jong Chul Ye
  `bash demo_kan.sh`
 
 ## Citation:
+```
 @inproceedings{kim2024noise2one,
   title={Noise2one: One-Shot Image Denoising with Local Implicit Learning},
   author={Kim, Kwanyoung and Ye, Jong Chul},
@@ -59,3 +60,4 @@ Authors: Kwanyoung Kim, Jong Chul Ye
   year={2024},
   organization={IEEE}
 }
+```
