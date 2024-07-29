@@ -23,16 +23,16 @@ Authors: Kwanyoung Kim, Jong Chul Ye
 
 |     Dataset     |  Pretrained model zoo |
 | :-------------: | :----------------------------------------------------------: |
-| Gaussian  | [[Google Drive](https://drive.google.com/file/d/1UjyrFxQ0TTSDiQYse5MxAvHVyhJpqgMA/view?usp=drive_link)] |
-| Poisson | [[Google Drive](https://drive.google.com/file/d/1SPXHxDl7znsOqUi9APnl3qx9BvmUbfny/view?usp=drive_link)] |
+| Gaussian   | [[Google Drive](https://drive.google.com/drive/folders/11O8lSuHGdERBBDJ2R1QIYj6fEbAChCb6?usp=drive_link)] |
+| Poisson | [[Google Drive](https://drive.google.com/drive/folders/1gKYwNia7WDZC1pt7yupXQHU6JzsK4omR?usp=drive_link)] |
 
 ## Validation Datset:
 
 |     Dataset     |  dataset download link |
 | :-------------: | :----------------------------------------------------------: |
-| CBSD300 | [[Google Drive](https://drive.google.com/file/d/1UjyrFxQ0TTSDiQYse5MxAvHVyhJpqgMA/view?usp=drive_link)] |
-| Kodak24 | [[Google Drive](https://drive.google.com/file/d/1SPXHxDl7znsOqUi9APnl3qx9BvmUbfny/view?usp=drive_link)] |
-| Set14   | [[Google Drive](https://drive.google.com/file/d/1SPXHxDl7znsOqUi9APnl3qx9BvmUbfny/view?usp=drive_link)] |
+| CBSD300 | [[Google Drive](https://drive.google.com/file/d/1jGMiw1JUHNAbA5ghkbpwfyaqP78B-k7z/view?usp=drive_link)] |
+| Kodak24 | [[Google Drive](https://drive.google.com/file/d/1ZXE9zJ1F1Wk8MBN5pFP11R3En3Q56yRv/view?usp=drive_link)] |
+| Set14   | [[Google Drive](https://drive.google.com/file/d/1RzTZXnPy-3A8oTCRWb-2_e7695qWZG7N/view?usp=drive_link)] |
 
 ## Training (Inductive):
  ```shell
